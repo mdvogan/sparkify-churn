@@ -5,6 +5,8 @@ This repository is for the capstone project of the Udacity Data Science nanodegr
 The goal of the project is to use the PySpark API to build a music streaming
 churn rate model that could be deployed in the cloud
 
+I could not upload the data due to a file size limitation on GitHub
+
 ## Blog post
 https://medium.com/@vogan.michael/predicting-music-streaming-churn-with-spark-d3db0176fce5
 
